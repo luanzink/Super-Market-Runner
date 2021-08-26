@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 6027732f444266d4b88a540f099ddec4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: abobora:group
+    100004: bottom
+    100006: Geladeira_1:pCube1
+    100008: Geladeira_1:polySurface1
+    100010: Geladeira_1:transform1
+    100012: group
+    100014: group1
+    100016: group10
+    100018: group11
+    100020: group12
+    100022: group13
+    100024: group14
+    100026: group15
+    100028: group16
+    100030: group17
+    100032: group18
+    100034: group19
+    100036: group2
+    100038: group20
+    100040: group21
+    100042: group22
+    100044: group23
+    100046: group24
+    100048: group25
+    100050: group26
+    100052: group27
+    100054: group28
+    100056: group29
+    100058: group3
+    100060: group30
+    100062: group31
+    100064: group32
+    100066: group33
+    100068: group34
+    100070: group35
+    100072: group36
+    100074: group4
+    100076: group5
+    100078: group6
+    100080: group7
+    100082: group8
+    100084: group9
+    100086: laranja:group
+    100088: pasted__group1
+    100090: pasted__group1 1
+    100092: pasted__group13
+    100094: pasted__group13 1
+    100096: pasted__group13 2
+    100098: pasted__group13 3
+    100100: pasted__group13 4
+    100102: pasted__group13 5
+    100104: pasted__group13 6
+    100106: pasted__group13 7
+    100108: pasted__group26
+    100110: pasted__group29
+    100112: pasted__group3
+    100114: pasted__group3 1
+    100116: pasted__group3 2
+    100118: pasted__group3 3
+    100120: pasted__group3 4
+    100122: pasted__group31
+    100124: pasted__group31 1
+    100126: pasted__group34
+    100128: pasted__group4
+    100130: pasted__group4 1
+    100132: pasted__group5
+    100134: pasted__group5 1
+    100136: pasted__group7
+    100138: pasted__group7 1
+    100140: pasted__group7 2
+    100142: pasted__group7 3
+    100144: pasted__group7 4
+    100146: pasted__group7 5
+    100148: pasted__group7 6
+    100150: pasted__group7 7
+    100152: pasted__group7 8
+    100154: pasted__pasted__group1
+    100156: pasted__pasted__group1 1
+    100158: pasted__pasted__group1 2
+    100160: pasted__pasted__group1 3
+    100162: pasted__pasted__group1 4
+    100164: pasted__pasted__group26
+    100166: pasted__pasted__group26 1
+    100168: pasted__pasted__group29
+    100170: pasted__pasted__group3
+    100172: pasted__pasted__group4
+    100174: pasted__pasted__group5
+    100176: pasted__pasted__group5 1
+    100178: pasted__pasted__group5 2
+    100180: pasted__pasted__group5 3
+    100182: pasted__pasted__group5 4
+    100184: pasted__pasted__group5 5
+    100186: pasted__pasted__group5 6
+    100188: pasted__pasted__group5 7
+    100190: pasted__pasted__group5 8
+    100192: pasted__pasted__group7
+    100194: pasted__pasted__group7 1
+    100196: pasted__pasted__group7 2
+    100198: pasted__pasted__group7 3
+    100200: pasted__pasted__group7 4
+    100202: pasted__pasted__group7 5
+    100204: pasted__pasted__group7 6
+    100206: pasted__pasted__group7 7
+    100208: pasted__pasted__pasted__group1
+    100210: pasted__pasted__pasted__group3
+    100212: pasted__pasted__pasted__group4
+    100214: pasted__pasted__pasted__group4 1
+    100216: pasted__pasted__pasted__group5
+    100218: pasted__pasted__pasted__group5 1
+    100220: pasted__pasted__pasted__group5 2
+    100222: pasted__pasted__pasted__group5 3
+    100224: pasted__pasted__pasted__group5 4
+    100226: pasted__pasted__pasted__group5 5
+    100228: pasted__pasted__pasted__group5 6
+    100230: pasted__pasted__pasted__group5 7
+    100232: pasted__pasted__pasted__pasted__group1
+    100234: pCube142
+    100236: pCube17
+    100238: pCube2
+    100240: pCube3
+    100242: pCube447
+    100244: pCylinder116
+    100246: pCylinder20
+    100248: pCylinder315
+    100250: pCylinder345
+    100252: pCylinder383
+    100254: polySurface1
+    100256: polySurface10
+    100258: polySurface11
+    100260: polySurface14
+    100262: polySurface15
+    100264: polySurface16
+    100266: polySurface17
+    100268: polySurface18
+    100270: polySurface19
+    100272: polySurface2
+    100274: polySurface20
+    100276: polySurface21
+    100278: polySurface22
+    100280: polySurface23
+    100282: polySurface24
+    100284: polySurface25
+    100286: polySurface26
+    100288: polySurface28
+    100290: polySurface29
+    100292: polySurface3
+    100294: polySurface30
+    100296: polySurface31
+    100298: polySurface32
+    100300: polySurface33
+    100302: polySurface37
+    100304: polySurface4
+    100306: polySurface5
+    100308: polySurface6
+    100310: polySurface7
+    100312: polySurface8
+    100314: polySurface9
+    100316: tomate:group
+    100318: transform1
+    100320: transform2
+    100322: txt_pratileira11:pCube1
+    100324: txt_pratileira12:pCube1
+    100326: txt_pratileira13:pCube1
+    100328: txt_pratileira14:pCube1
+    100330: txt_pratileira15:pCube1
+    100332: txt_pratileira16:pCube1
+    100334: txt_pratileira17:pCube1
+    100336: txt_pratileira4:pCube1
+    100338: txt_pratileira5:pCube1
+    100340: txt_pratileira6:pCube1
+    100342: txt_pratileira7:pCube1
+    400000: //RootNode
+    400002: abobora:group
+    400004: bottom
+    400006: Geladeira_1:pCube1
+    400008: Geladeira_1:polySurface1
+    400010: Geladeira_1:transform1
+    400012: group
+    400014: group1
+    400016: group10
+    400018: group11
+    400020: group12
+    400022: group13
+    400024: group14
+    400026: group15
+    400028: group16
+    400030: group17
+    400032: group18
+    400034: group19
+    400036: group2
+    400038: group20
+    400040: group21
+    400042: group22
+    400044: group23
+    400046: group24
+    400048: group25
+    400050: group26
+    400052: group27
+    400054: group28
+    400056: group29
+    400058: group3
+    400060: group30
+    400062: group31
+    400064: group32
+    400066: group33
+    400068: group34
+    400070: group35
+    400072: group36
+    400074: group4
+    400076: group5
+    400078: group6
+    400080: group7
+    400082: group8
+    400084: group9
+    400086: laranja:group
+    400088: pasted__group1
+    400090: pasted__group1 1
+    400092: pasted__group13
+    400094: pasted__group13 1
+    400096: pasted__group13 2
+    400098: pasted__group13 3
+    400100: pasted__group13 4
+    400102: pasted__group13 5
+    400104: pasted__group13 6
+    400106: pasted__group13 7
+    400108: pasted__group26
+    400110: pasted__group29
+    400112: pasted__group3
+    400114: pasted__group3 1
+    400116: pasted__group3 2
+    400118: pasted__group3 3
+    400120: pasted__group3 4
+    400122: pasted__group31
+    400124: pasted__group31 1
+    400126: pasted__group34
+    400128: pasted__group4
+    400130: pasted__group4 1
+    400132: pasted__group5
+    400134: pasted__group5 1
+    400136: pasted__group7
+    400138: pasted__group7 1
+    400140: pasted__group7 2
+    400142: pasted__group7 3
+    400144: pasted__group7 4
+    400146: pasted__group7 5
+    400148: pasted__group7 6
+    400150: pasted__group7 7
+    400152: pasted__group7 8
+    400154: pasted__pasted__group1
+    400156: pasted__pasted__group1 1
+    400158: pasted__pasted__group1 2
+    400160: pasted__pasted__group1 3
+    400162: pasted__pasted__group1 4
+    400164: pasted__pasted__group26
+    400166: pasted__pasted__group26 1
+    400168: pasted__pasted__group29
+    400170: pasted__pasted__group3
+    400172: pasted__pasted__group4
+    400174: pasted__pasted__group5
+    400176: pasted__pasted__group5 1
+    400178: pasted__pasted__group5 2
+    400180: pasted__pasted__group5 3
+    400182: pasted__pasted__group5 4
+    400184: pasted__pasted__group5 5
+    400186: pasted__pasted__group5 6
+    400188: pasted__pasted__group5 7
+    400190: pasted__pasted__group5 8
+    400192: pasted__pasted__group7
+    400194: pasted__pasted__group7 1
+    400196: pasted__pasted__group7 2
+    400198: pasted__pasted__group7 3
+    400200: pasted__pasted__group7 4
+    400202: pasted__pasted__group7 5
+    400204: pasted__pasted__group7 6
+    400206: pasted__pasted__group7 7
+    400208: pasted__pasted__pasted__group1
+    400210: pasted__pasted__pasted__group3
+    400212: pasted__pasted__pasted__group4
+    400214: pasted__pasted__pasted__group4 1
+    400216: pasted__pasted__pasted__group5
+    400218: pasted__pasted__pasted__group5 1
+    400220: pasted__pasted__pasted__group5 2
+    400222: pasted__pasted__pasted__group5 3
+    400224: pasted__pasted__pasted__group5 4
+    400226: pasted__pasted__pasted__group5 5
+    400228: pasted__pasted__pasted__group5 6
+    400230: pasted__pasted__pasted__group5 7
+    400232: pasted__pasted__pasted__pasted__group1
+    400234: pCube142
+    400236: pCube17
+    400238: pCube2
+    400240: pCube3
+    400242: pCube447
+    400244: pCylinder116
+    400246: pCylinder20
+    400248: pCylinder315
+    400250: pCylinder345
+    400252: pCylinder383
+    400254: polySurface1
+    400256: polySurface10
+    400258: polySurface11
+    400260: polySurface14
+    400262: polySurface15
+    400264: polySurface16
+    400266: polySurface17
+    400268: polySurface18
+    400270: polySurface19
+    400272: polySurface2
+    400274: polySurface20
+    400276: polySurface21
+    400278: polySurface22
+    400280: polySurface23
+    400282: polySurface24
+    400284: polySurface25
+    400286: polySurface26
+    400288: polySurface28
+    400290: polySurface29
+    400292: polySurface3
+    400294: polySurface30
+    400296: polySurface31
+    400298: polySurface32
+    400300: polySurface33
+    400302: polySurface37
+    400304: polySurface4
+    400306: polySurface5
+    400308: polySurface6
+    400310: polySurface7
+    400312: polySurface8
+    400314: polySurface9
+    400316: tomate:group
+    400318: transform1
+    400320: transform2
+    400322: txt_pratileira11:pCube1
+    400324: txt_pratileira12:pCube1
+    400326: txt_pratileira13:pCube1
+    400328: txt_pratileira14:pCube1
+    400330: txt_pratileira15:pCube1
+    400332: txt_pratileira16:pCube1
+    400334: txt_pratileira17:pCube1
+    400336: txt_pratileira4:pCube1
+    400338: txt_pratileira5:pCube1
+    400340: txt_pratileira6:pCube1
+    400342: txt_pratileira7:pCube1
+    2000000: bottom
+    2100000: shadingMap1
+    2100002: blinn3
+    2100004: blinn2
+    2100006: pasted__blinn2
+    2100008: pasted__blinn3
+    2100010: pasted__blinn6
+    2100012: pasted__blinn7
+    2100014: pasted__pasted__blinn3
+    2100016: pasted__pasted__pasted__blinn11
+    2100018: pasted__pasted__pasted__blinn12
+    2100020: pasted__pasted__blinn6
+    2100022: pasted__blinn8
+    2100024: pasted__pasted__pasted__blinn13
+    2100026: Geladeira_1_lambert5
+    2100028: lambert1
+    2300000: Geladeira_1:polySurface1
+    2300002: pCube142
+    2300004: pCube17
+    2300006: pCube2
+    2300008: pCube3
+    2300010: pCube447
+    2300012: pCylinder116
+    2300014: pCylinder315
+    2300016: pCylinder345
+    2300018: pCylinder383
+    2300020: polySurface1
+    2300022: polySurface10
+    2300024: polySurface11
+    2300026: polySurface14
+    2300028: polySurface15
+    2300030: polySurface16
+    2300032: polySurface17
+    2300034: polySurface18
+    2300036: polySurface19
+    2300038: polySurface2
+    2300040: polySurface20
+    2300042: polySurface21
+    2300044: polySurface22
+    2300046: polySurface23
+    2300048: polySurface24
+    2300050: polySurface25
+    2300052: polySurface26
+    2300054: polySurface28
+    2300056: polySurface29
+    2300058: polySurface3
+    2300060: polySurface30
+    2300062: polySurface31
+    2300064: polySurface32
+    2300066: polySurface33
+    2300068: polySurface4
+    2300070: polySurface5
+    2300072: polySurface6
+    2300074: polySurface7
+    2300076: polySurface8
+    2300078: polySurface9
+    2300080: txt_pratileira11:pCube1
+    2300082: txt_pratileira12:pCube1
+    2300084: txt_pratileira13:pCube1
+    2300086: txt_pratileira14:pCube1
+    2300088: txt_pratileira15:pCube1
+    2300090: txt_pratileira16:pCube1
+    2300092: txt_pratileira17:pCube1
+    2300094: txt_pratileira4:pCube1
+    2300096: txt_pratileira5:pCube1
+    2300098: txt_pratileira6:pCube1
+    2300100: txt_pratileira7:pCube1
+    3300000: Geladeira_1:polySurface1
+    3300002: pCube142
+    3300004: pCube17
+    3300006: pCube2
+    3300008: pCube3
+    3300010: pCube447
+    3300012: pCylinder116
+    3300014: pCylinder315
+    3300016: pCylinder345
+    3300018: pCylinder383
+    3300020: polySurface1
+    3300022: polySurface10
+    3300024: polySurface11
+    3300026: polySurface14
+    3300028: polySurface15
+    3300030: polySurface16
+    3300032: polySurface17
+    3300034: polySurface18
+    3300036: polySurface19
+    3300038: polySurface2
+    3300040: polySurface20
+    3300042: polySurface21
+    3300044: polySurface22
+    3300046: polySurface23
+    3300048: polySurface24
+    3300050: polySurface25
+    3300052: polySurface26
+    3300054: polySurface28
+    3300056: polySurface29
+    3300058: polySurface3
+    3300060: polySurface30
+    3300062: polySurface31
+    3300064: polySurface32
+    3300066: polySurface33
+    3300068: polySurface4
+    3300070: polySurface5
+    3300072: polySurface6
+    3300074: polySurface7
+    3300076: polySurface8
+    3300078: polySurface9
+    3300080: txt_pratileira11:pCube1
+    3300082: txt_pratileira12:pCube1
+    3300084: txt_pratileira13:pCube1
+    3300086: txt_pratileira14:pCube1
+    3300088: txt_pratileira15:pCube1
+    3300090: txt_pratileira16:pCube1
+    3300092: txt_pratileira17:pCube1
+    3300094: txt_pratileira4:pCube1
+    3300096: txt_pratileira5:pCube1
+    3300098: txt_pratileira6:pCube1
+    3300100: txt_pratileira7:pCube1
+    4300000: pCube3
+    4300002: txt_pratileira4:pCube1
+    4300004: txt_pratileira5:pCube1
+    4300006: txt_pratileira6:pCube1
+    4300008: txt_pratileira7:pCube1
+    4300010: pCube2
+    4300012: pCube447
+    4300014: txt_pratileira11:pCube1
+    4300016: txt_pratileira12:pCube1
+    4300018: txt_pratileira13:pCube1
+    4300020: txt_pratileira14:pCube1
+    4300022: txt_pratileira15:pCube1
+    4300024: txt_pratileira16:pCube1
+    4300026: txt_pratileira17:pCube1
+    4300028: Geladeira_1:polySurface1
+    4300030: pCube17
+    4300032: polySurface1
+    4300034: polySurface2
+    4300036: polySurface3
+    4300038: polySurface4
+    4300040: polySurface5
+    4300042: polySurface6
+    4300044: polySurface7
+    4300046: polySurface8
+    4300048: polySurface9
+    4300050: polySurface10
+    4300052: polySurface11
+    4300054: polySurface14
+    4300056: polySurface15
+    4300058: polySurface16
+    4300060: polySurface17
+    4300062: polySurface18
+    4300064: polySurface19
+    4300066: polySurface20
+    4300068: polySurface21
+    4300070: polySurface22
+    4300072: polySurface23
+    4300074: polySurface24
+    4300076: polySurface25
+    4300078: polySurface26
+    4300080: polySurface28
+    4300082: polySurface29
+    4300084: polySurface30
+    4300086: polySurface31
+    4300088: polySurface32
+    4300090: polySurface33
+    4300092: pCylinder116
+    4300094: pCube142
+    4300096: pCylinder315
+    4300098: pCylinder345
+    4300100: pCylinder383
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
